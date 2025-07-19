@@ -1,2 +1,2 @@
-# github-101
+2
 Repository for GitHub 101 class
